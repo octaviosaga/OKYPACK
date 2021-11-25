@@ -1,5 +1,5 @@
 # OKYPACK
-Recopilación de CFW
+Recopilación de CFW para Ninstendo Switch
 
 PACK de CFW  creado para uso sencillo y con herraminetas esenciales para su funcionamiento.
 INCLUYE:
