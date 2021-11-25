@@ -26,7 +26,7 @@ Fusse
 Incognito_RCM
 
 
-Para computadora MAC/WINDOWS
+APPS para computadora MAC/WINDOWS
 Windows:
 Tegra RCM GUI 2.6
 NS-Usbloader 5.2.jar (se debe instalar java para su su uso)
